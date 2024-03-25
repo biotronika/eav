@@ -4,6 +4,12 @@ One Arduino ino file for beginners. Full functional software for miniVOLL and qi
 See: [https://biotronics.eu](https://biotronics.eu/what-is-qiWELLNESS) or for Polish:  [https://biotronika.pl](https://biotronika.pl/what-is-qiWELLNESS) 
 
 
+### Changes:
+1. Added pushbutton to save frequency to pin D4 & led activity to pin 13
+
+### ToDo:
+2. Create new site with all needed info
+
 ### To compile code and upload using Arduino IDE:
 1. Download miniVOLL.ino file and put it into miniVOLL folder (it must has exactly that name). 
 2. Open miniVOLL.ino file in Arduino IDE.
